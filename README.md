@@ -1,10 +1,8 @@
-# python-data-science-project
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/KAUST-Academy/introduction-to-python/HEAD)
 
-Repository containing scaffolding for a Python 3-based data science project. 
+# Introduction to Python
 
-## Creating a new project from this template
-
-Simply follow the [instructions](https://help.github.com/en/articles/creating-a-repository-from-a-template) to create a new project repository from this template.
+Course materials for introductory workshops on Python targeting data scientists and AI practioners.
 
 ## Project organization
 
@@ -34,7 +32,6 @@ ENV_PREFIX=$PWD/env
 conda env create --prefix $ENV_PREFIX --file environment.yml --force
 ```
 
-
 Once the new environment has been created you can activate the environment with the following 
 command.
 
@@ -44,15 +41,6 @@ conda activate $ENV_PREFIX
 
 Note that the `ENV_PREFIX` directory is *not* under version control as it can always be re-created as 
 necessary.
-
-If you wish to use any JupyterLab extensions included in the `environment.yml` and `requirements.txt` 
-files then you need to activate the environment and rebuild the JupyterLab application using the 
-following commands to source the `postBuild` script.
-
-```bash
-conda activate $ENV_PREFIX # optional if environment already active
-source postBuild
-```
 
 For your convenience these commands have been combined in a shell script `./bin/create-conda-env.sh`. 
 Running the shell script will create the Conda environment, activate the Conda environment, and build 
