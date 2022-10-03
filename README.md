@@ -2,7 +2,7 @@
 
 # Introduction to Python
 
-Course materials for introductory workshops on Python targeting data scientists and AI practioners.
+Course materials for introductory workshops on Python targeting data scientists and AI practioners. Participants are encouraged to download and install one of the Python distributions from [Anaconda](https://anaconda.org/), either the full [Anaconda](https://www.anaconda.com/products/distribution) distribution or the [Miniconda](https://docs.conda.io/en/latest/miniconda.html) distribution. 
 
 ## Core data science libraries
 
