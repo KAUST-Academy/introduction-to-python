@@ -4,6 +4,37 @@
 
 Course materials for introductory workshops on Python targeting data scientists and AI practioners.
 
+## Core data science libraries
+
+* [Jupyter](https://jupyter.org/)
+* [NumPy](https://numpy.org/)
+* [SciPy](https://scipy.org/)
+* [Pandas](https://pandas.pydata.org/)
+* [Matplotlib](https://matplotlib.org/)
+
+## Data visualization libraries
+
+* [Bokeh](https://bokeh.org/)
+* [HoloViews](https://holoviews.org/)
+* [GeoViews](https://geoviews.org/)
+* [DataShader](https://datashader.org/)
+* [Panel](https://panel.holoviz.org/)
+* [PyViz](https://pyviz.org/index.html)
+
+## Machine learning libraries
+
+* [Scikit-Learn](https://scikit-learn.org/stable/index.html)
+* [Dask](https://www.dask.org/)
+* [Rapids](https://rapids.ai/)
+
+## Deep learning libraries
+
+* [PyTorch](https://pytorch.org/)
+* [PyTorch Lightning](https://www.pytorchlightning.ai/)
+* [TensorFlow](https://www.tensorflow.org/)
+* [Keras](https://keras.io/)
+
+
 ## Project organization
 
 Project organization is based on ideas from [_Good Enough Practices for Scientific Computing_](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510).
