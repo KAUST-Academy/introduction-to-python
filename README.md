@@ -34,6 +34,11 @@ Course materials for introductory workshops on Python targeting data scientists 
 * [TensorFlow](https://www.tensorflow.org/)
 * [Keras](https://keras.io/)
 
+## Lesson materials
+
+* [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation)
+* [Plotting and Programming with Python](http://swcarpentry.github.io/python-novice-gapminder)
+* [Data Analysis and Visualization with Python](https://datacarpentry.org/python-ecology-lesson/)
 
 ## Project organization
 
